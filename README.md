@@ -18,12 +18,7 @@ You can also have a look at the associated thingiverse part, [found here](https:
 
 ## Glamour shots 
 
-<video width="320" height="240" controls>
-  <source src="images/publicSwerveAssemblyExample.mp4" type="video/mp4">
-</video>
-
-https://raw.githubusercontent.com/ZachEichen/Print_Swerve/master/images/publicSwerveAssemblyExample.mp4
-
+https://github.com/ZachEichen/Print_Swerve/assets/14967701/36f6d081-fa3b-49ac-bc39-774735051941
 
 ![Glam shot](images/Print_Swerve_Render_2.png)
 ![Glam shot](images/Print_Swerve_Assembled_render_1.png)

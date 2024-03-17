@@ -22,6 +22,8 @@ You can also have a look at the associated thingiverse part, [found here](https:
   <source src="images/publicSwerveAssemblyExample.mp4" type="video/mp4">
 </video>
 
+https://raw.githubusercontent.com/ZachEichen/Print_Swerve/master/images/publicSwerveAssemblyExample.mp4
+
 
 ![Glam shot](images/Print_Swerve_Render_2.png)
 ![Glam shot](images/Print_Swerve_Assembled_render_1.png)

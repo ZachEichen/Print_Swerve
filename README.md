@@ -18,7 +18,7 @@ You can also have a look at the associated thingiverse part, [found here](https:
 
 ## Glamour shots 
 
-<video controls>
+<video width="320" height="240" controls>
   <source src="images/publicSwerveAssemblyExample.mp4" type="video/mp4">
 </video>
 

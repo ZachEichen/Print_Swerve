@@ -18,7 +18,10 @@ You can also have a look at the associated thingiverse part, [found here](https:
 
 ## Glamour shots 
 
-![Glamour video](images/publicSwerveAssemblyExample.mp4)
+<video controls>
+  <source src="images/publicSwerveAssemblyExample.mp4" type="video/mp4">
+</video>
+
 
 ![Glam shot](images/Print_Swerve_Render_2.png)
 ![Glam shot](images/Print_Swerve_Assembled_render_1.png)

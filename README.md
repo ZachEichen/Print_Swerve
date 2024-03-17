@@ -1,6 +1,6 @@
 # Print Swerve: A fully customizable, Fully 3D printable Swerve drive for FTC 
 
-This is a fully 3d printable swerve drive developed and used by FTC team [Robocracy](http://www.ftcrobocracy.org) in the 2018 FTC searon. It was largely by Nicolas Eichenberger and Zachary Eichenberger.
+This is a fully 3d printable swerve drive developed and used by FTC team [Robocracy](http://www.ftcrobocracy.org) in the 2018 FTC searon. It was primarily developed by [Nicolas Eichenberger](https://sites.google.com/view/neichenberger/) and [Zachary Eichenberger](https://github.com/ZachEichen).
 
 ![A render of the printable swerve assembled](images/Print_Swerve_Assembled_render_1.png)
 
@@ -14,5 +14,11 @@ Both STL files for printing, and full CAD assemblies are avaliable for convenien
 
 Two STL files of the main module are avaliable. Our assembly guide assumes the use of 1/2" flanged thunderhex bearings from Vexpro. To use this part, print `STL_files/ModuleBody.stl`. Otherwise, you can use radial thunderHex bearings, and substitute `Tube_Body_Radial_Bearings.stl`.
 
-You can also have a look at the associated thingiverse part, [found here](https://www.thingiverse.com/thing:2998874/files).
+You can also have a look at the associated thingiverse part, [found here](https://www.thingiverse.com/thing:2998874/files), and Nicky's [blog post](https://sites.google.com/view/neichenberger/projects/robotics-projects/swerve-drive-saga)  on the build process. 
 
+## Glamour shots 
+
+![Glamour video](images/publicSwerveAssemblyExample.mp4)
+
+![Glam shot](images/Print_Swerve_Render_2.png)
+![Glam shot](images/Print_Swerve_Assembled_render_1.png)

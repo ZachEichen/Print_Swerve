@@ -1,6 +1,6 @@
 # Print Swerve: A fully customizable, Fully 3D printable Swerve drive for FTC 
 
-This is a fully 3d printable swerve drive developed and used by FTC team Robocracy in the 2018 FTC searon. It was largely by Nicolas Eichenberger and Zachary Eichenberger.
+This is a fully 3d printable swerve drive developed and used by FTC team [Robocracy](http://www.ftcrobocracy.org) in the 2018 FTC searon. It was largely by Nicolas Eichenberger and Zachary Eichenberger.
 
 ![A render of the printable swerve assembled](images/Print_Swerve_Assembled_render_1.png)
 
@@ -16,6 +16,3 @@ Two STL files of the main module are avaliable. Our assembly guide assumes the u
 
 You can also have a look at the associated thingiverse part, [found here](https://www.thingiverse.com/thing:2998874/files).
 
-
-
- 
